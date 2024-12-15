@@ -1,6 +1,6 @@
 import { useContext, useState } from 'react';
 import './App.css';
-import NotiesLogo from '.public/photo/Noties3.png';
+import NotiesLogo from './photo/Noties3.png';
 import Note from './components/Note';
 import { noteContext } from './context/noteContext';
 

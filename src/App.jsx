@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="app">
       <div className="sidebar">
-        <img src={NotiesLogo} alt="Noties Logo" />
+        <img src="/photo/Noties3.png" alt="Noties Logo" />
         {/* <h3>Noties</h3> */}
 
         <div className="addNotes">
